@@ -2,9 +2,7 @@
 
 All notable changes to this preset are documented here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the versioning is [semantic](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
-
-Nothing is tagged yet. `preset.yml` carries `0.1.0` as the version this content will ship as; this section becomes `[0.1.0] - <date>` when the tag is cut.
+## [0.1.0] - 2026-08-21
 
 ### Added
 
